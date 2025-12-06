@@ -1,0 +1,12 @@
+/：快速打开搜索框
+T：快速定位到文件搜索栏
+L：快速定位到行号
+	copy line：复制这行代码
+	copy permalink：复制一个永久链接（开源通过分享链接，给他人分享代码）
+	git blame：打开页面开源看出文件的历史提交
+？：打开一个快捷键速查表
+。：会帮我们打开一个网页版的VScode
+
+
+https://github.com/explore：用于查看新闻与当日最热项目，往下拉会根据你的喜好推荐
+https://github.com/search：搜索页面
